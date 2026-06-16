@@ -225,3 +225,4 @@ uv.lock
 # Qdrant local database storage
 qdrant_data/aliases/
 qdrant_data/collections/
+qdrant_data/raft_state.json

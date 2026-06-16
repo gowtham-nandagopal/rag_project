@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# project structure
+pyproject.toml
+.python-version
+uv.lock
+
+# Qdrant local database storage
+qdrant_data/

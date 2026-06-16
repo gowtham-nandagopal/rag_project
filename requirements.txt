@@ -1,0 +1,40 @@
+# ── Core RAG Framework ──────────────────────────────
+llama-index
+llama-index-vector-stores-qdrant
+llama-index-embeddings-google-genai
+llama-index-llms-groq
+
+# ── Vector Database ──────────────────────────────────
+qdrant-client
+
+# ── LLM API Clients ──────────────────────────────────
+groq
+google-generativeai
+
+# ── PII Detection ────────────────────────────────────
+presidio-analyzer
+presidio-anonymizer
+spacy
+
+# ── Data Handling ─────────────────────────────────────
+datasets
+pandas
+python-dotenv
+pydantic
+
+# ── Observability ─────────────────────────────────────
+langfuse
+
+# ── Evals ─────────────────────────────────────────────
+ragas
+
+# ── Reranking ─────────────────────────────────────────
+sentence-transformers
+torch
+
+# ── Frontend ─────────────────────────────────────────
+chainlit
+
+# ── Document parsing ─────────────────────────────────
+pypdf
+python-docx

@@ -223,4 +223,5 @@ pyproject.toml
 uv.lock
 
 # Qdrant local database storage
-qdrant_data/
+qdrant_data/aliases/
+qdrant_data/collections/

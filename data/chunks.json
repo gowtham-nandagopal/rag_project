@@ -1,0 +1,228 @@
+[
+  {
+    "chunk_id": "91a117cace5bbf81_sem_0",
+    "text": "[DATE_TIME]. Selected Financial Data\nThe information set forth below for [DATE_TIME], is not necessarily indicative of results of future operations, and should be read in conjunction with Part II, Item 7, \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations\u201d and the consolidated financial statements and accompanying notes included in Part II, Item 8 of this Form 10-K to fully understand factors that may affect the comparability of the information presented below (in millions, except number of shares, which are reflected in thousands, and per share amounts).\nApple Inc. ",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "AAPL",
+      "year": 2020,
+      "section": "section_6",
+      "company": "AAPL",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "DATE_TIME"
+      ],
+      "doc_id": "91a117cace5bbf81",
+      "chunk_strategy": "semantic",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "char_count": 609
+    }
+  },
+  {
+    "chunk_id": "91a117cace5bbf81_sem_1",
+    "text": "| [DATE_TIME] Form 10-K | 19\nItem 7.",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "AAPL",
+      "year": 2020,
+      "section": "section_6",
+      "company": "AAPL",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "DATE_TIME"
+      ],
+      "doc_id": "91a117cace5bbf81",
+      "chunk_strategy": "semantic",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "char_count": 36
+    }
+  },
+  {
+    "chunk_id": "9def041932dd7a45_sem_0",
+    "text": "Item 7A.Quantitative and Qualitative Disclosures About Market Risk\nWe are exposed to market risk for the effect of interest rate changes, foreign currency fluctuations, and changes in the market values of our investments. Information relating to quantitative and qualitative disclosures about market risk is set forth below and in [DATE_TIME] of Part II, \u201cManagement\u2019s Discussion and Analysis of Financial Condition and Results of Operations - Liquidity and Capital Resources.\u201d\nInterest Rate Risk\nOur exposure to market risk for changes in interest rates relates primarily to our investment portfolio and our long-term debt. Our long-term debt is carried at amortized cost and fluctuations in interest rates do not impact our consolidated financial statements. ",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "AMZN",
+      "year": 2020,
+      "section": "section_7A",
+      "company": "AMZN",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "SALARY",
+        "DATE_TIME"
+      ],
+      "doc_id": "9def041932dd7a45",
+      "chunk_strategy": "semantic",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "char_count": 761
+    }
+  },
+  {
+    "chunk_id": "9def041932dd7a45_sem_1",
+    "text": "However, the fair value of our debt, which pays interest at a fixed rate, will generally fluctuate with movements of interest rates, increasing in periods of declining rates of interest and declining in periods of increasing rates of interest.\nWe generally invest our excess cash in AAA-rated money market funds and investment grade short- to intermediate-term fixed income securities. Fixed income securities may have their fair market value adversely affected due to a rise in interest rates, and we may suffer losses in principal if forced to sell securities that have declined in market value due to changes in interest rates. The following table provides information about our cash equivalents and marketable fixed income securities, including principal cash flows by expected maturity and the related weighted-average interest rates as of [DATE_TIME] (in millions, except percentages):\nAs of [DATE_TIME], we had long-term debt with a face value of [SALARY].2 billion, including the current portion, primarily consisting of fixed rate unsecured senior notes. See [DATE_TIME]",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "AMZN",
+      "year": 2020,
+      "section": "section_7A",
+      "company": "AMZN",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "SALARY",
+        "DATE_TIME"
+      ],
+      "doc_id": "9def041932dd7a45",
+      "chunk_strategy": "semantic",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "char_count": 1079
+    }
+  },
+  {
+    "chunk_id": "ad0f36bf69c80bc8_sem_0",
+    "text": "Item 10.Directors, Executive Officers and Corporate Governance\nThe information required by this item is incorporated by reference to our Proxy Statement for the [DATE_TIME] Annual Meeting of Stockholders to be filed with the SEC within [DATE_TIME].\nOur board of directors has adopted a Code of Conduct applicable to all officers, directors and employees, which is available on our website (investor.fb.com) under \"Corporate Governance.\" We intend to satisfy the disclosure requirement under Item 5.05 of Form 8-K regarding amendment to, or waiver from, a provision of our Code of Conduct by posting such information on the website address and location specified above.\n",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "META",
+      "year": 2020,
+      "section": "section_10",
+      "company": "META",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "DATE_TIME"
+      ],
+      "doc_id": "ad0f36bf69c80bc8",
+      "chunk_strategy": "semantic",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "char_count": 669
+    }
+  },
+  {
+    "chunk_id": "ad0f36bf69c80bc8_sem_1",
+    "text": "Item 11.",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "META",
+      "year": 2020,
+      "section": "section_10",
+      "company": "META",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "DATE_TIME"
+      ],
+      "doc_id": "ad0f36bf69c80bc8",
+      "chunk_strategy": "semantic",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "char_count": 8
+    }
+  },
+  {
+    "chunk_id": "0f74e5c070db9be1_sem_0",
+    "text": "[DATE_TIME]. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters\nThe information required by this Item is set forth under the headings \u201cOther Information-Security Ownership of Certain Beneficial Owners and Management\u201d and \u201cOther Information-Equity Compensation Plan Information\u201d in the Company\u2019s [DATE_TIME] Proxy Statement to be filed with the SEC within [DATE_TIME] after [DATE_TIME], and is incorporated herein by reference.\n",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "AAPL",
+      "year": 2020,
+      "section": "section_12",
+      "company": "AAPL",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "DATE_TIME"
+      ],
+      "doc_id": "0f74e5c070db9be1",
+      "chunk_strategy": "semantic",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "char_count": 471
+    }
+  },
+  {
+    "chunk_id": "0f74e5c070db9be1_sem_1",
+    "text": "Item 13.",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "AAPL",
+      "year": 2020,
+      "section": "section_12",
+      "company": "AAPL",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "DATE_TIME"
+      ],
+      "doc_id": "0f74e5c070db9be1",
+      "chunk_strategy": "semantic",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "char_count": 8
+    }
+  },
+  {
+    "chunk_id": "46832b2c53cda823_sem_0",
+    "text": "[DATE_TIME]. ",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "PEP",
+      "year": 2020,
+      "section": "section_10",
+      "company": "PEP",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "PERSON",
+        "LOCATION",
+        "DATE_TIME"
+      ],
+      "doc_id": "46832b2c53cda823",
+      "chunk_strategy": "semantic",
+      "chunk_index": 0,
+      "total_chunks": 2,
+      "char_count": 13
+    }
+  },
+  {
+    "chunk_id": "46832b2c53cda823_sem_1",
+    "text": "Directors, Executive Officers and Corporate Governance.\nInformation about our directors and persons nominated to become directors is contained under the caption \u201cElection of Directors\u201d in our Proxy Statement for our [DATE_TIME] Annual Meeting of Shareholders to be filed with the SEC within [DATE_TIME] (the [DATE_TIME] Proxy Statement) and is incorporated herein by reference. Information about our executive officers is reported under the caption \u201cInformation About Executive Officers\u201d in Part I of this report.\nInformation on beneficial ownership reporting compliance will be contained under the caption \u201cOwnership of PepsiCo Common Stock - Delinquent Section 16(a) Reports,\u201d if applicable, in our [DATE_TIME] Proxy Statement and is incorporated herein by reference.\nWe have a written code of conduct that applies to all of our employees, including our Chairman of the Board of Directors and Chief Executive Officer, Chief Financial Officer and [PERSON], and to our Board of Directors. Our Global Code of Conduct is distributed to all employees and is available on our website at http://www.pepsico.com. A copy of our Global Code of Conduct may be obtained free of charge by writing to Investor Relations, PepsiCo, Inc., 700 Anderson Hill Road, Purchase, [LOCATION] [DATE_TIME]. Any amendment to our Global Code of Conduct and any waiver applicable to our executive officers or senior financial officers will be posted on our website within the time period required by the SEC and applicable rules of The Nasdaq Stock Market LLC.\nInformation about the procedures by which security holders may recommend nominees to our Board of Directors can be found in our [DATE_TIME] Proxy Statement under the caption \u201cBoard Composition and Refreshment - Shareholder Recommendations and Nominations of Director Candidates\u201d and is incorporated herein by reference.\nInformation concerning the composition of the Audit Committee and our Audit Committee financial experts is contained in our [DATE_TIME] Proxy Statement under the caption \u201cCorporate Governance at PepsiCo - Committees of the Board of Directors - Audit Committee\u201d and is incorporated herein by reference.\nItem 11.",
+    "metadata": {
+      "tier": "public",
+      "source": "sec_10k",
+      "ticker": "PEP",
+      "year": 2020,
+      "section": "section_10",
+      "company": "PEP",
+      "doc_type": "10k_section",
+      "pii_detected": true,
+      "pii_types": [
+        "PERSON",
+        "LOCATION",
+        "DATE_TIME"
+      ],
+      "doc_id": "46832b2c53cda823",
+      "chunk_strategy": "semantic",
+      "chunk_index": 1,
+      "total_chunks": 2,
+      "char_count": 2163
+    }
+  }
+]

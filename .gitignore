@@ -226,3 +226,6 @@ uv.lock
 qdrant_data/aliases/
 qdrant_data/collections/
 qdrant_data/raft_state.json
+
+#Ignore raw hr folder
+data/raw/hr

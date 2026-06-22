@@ -199,6 +199,6 @@ def generate_synthetic_reviews():
 
 if __name__ == "__main__":
     download_sec_filings()
-    # download_hr_handbooks()
-    # generate_synthetic_reviews()
+    download_hr_handbooks()
+    generate_synthetic_reviews()
     print("\n🎉 All datasets downloaded successfully!")

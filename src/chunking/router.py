@@ -119,5 +119,5 @@ if __name__ == "__main__":
 
     # Save chunks for inspection / debugging
     out = Path("data/chunks.json")
-    out.write_text(json.dumps(chunks[:10], indent=2))  # preview first 10
+    out.write_text(json.dumps(chunks[:], indent=2))  # preview first 10
     print(f"Preview saved to {out}")

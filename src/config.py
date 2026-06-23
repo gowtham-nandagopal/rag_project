@@ -10,6 +10,7 @@ class Settings(BaseSettings):
 
     # Qdrant
     qdrant_url: str = "http://localhost:6333"
+    qdrant_collection:str = "enterprise_docs"
 
     # Langfuse
     langfuse_public_key: str
